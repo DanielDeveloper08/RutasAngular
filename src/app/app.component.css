@@ -1,0 +1,10 @@
+.rutas{
+    display: flex;
+    flex-direction: column;
+}
+
+.activa{
+    background: lightskyblue;
+    padding: 5px;
+    border: 1px solid blue;
+}
